@@ -232,8 +232,8 @@ giscus:
   hostname: giscus.app
   repository: alwaysonline0000/alwaysonline0000.github.io
   repository-id: R_kgDOOEYUA
-  category: Announcements
-  category-id: DIC_kwDOOEYuM4C-vH4
+  category: General
+  category-id: DIC_kwDOOEYuM4C-vH5
   mapping: pathname
   reactions-enabled: 1
   emit-metadata: 0
